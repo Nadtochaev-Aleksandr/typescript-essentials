@@ -1,5 +1,7 @@
 # My TypeScript Journey: Earned Badges 🏆
 
+# Тут все ссылки пустые!!! Tак как я начал выполнять задание слишком поздно, когда двнный сервис Microsoft Learn уже перестал работать
+
 ## Badges Overview
 
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
@@ -15,4 +17,3 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 ## Reflections
 
-Тут нет ни одной ссылки так как я начал выполнять задание слишком поздно, когда двнный сервис Microsoft Learn уже перестал работать.
